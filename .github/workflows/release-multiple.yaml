@@ -18,6 +18,8 @@ jobs:
   # Checking if a new version was released at all before starting the matrix would be more efficient, but depends on device
   # So run the whole matrix as cron. One of the first checks is if there is a need for release at all.
   build-devices:
+    permissions:
+      contents: write
     strategy:
       matrix:
         include:
