@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/ArisoN-ext/ota/releases/download/2026102101/tokay-2026102101-c20bcbd-magisk-v30.7.zip",
+    "location_csig": "https://github.com/ArisoN-ext/ota/releases/download/2026102101/tokay-2026102101-c20bcbd-magisk-v30.7.zip.csig"
+  }
+}
