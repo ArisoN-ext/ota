@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/ArisoN-ext/ota/releases/download/2026102101/caiman-2026102101-c20bcbd-rootless.zip",
+    "location_csig": "https://github.com/ArisoN-ext/ota/releases/download/2026102101/caiman-2026102101-c20bcbd-rootless.zip.csig"
+  }
+}
